@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RugbyFun</string>
+    <string name="reset">RESET</string>
+    <string name="drop_goal">DROP-GOAL</string>
+    <string name="penalty">PENALTY</string>
+    <string name="try_points">TRY</string>
+    <string name="conversion">CONVERSION</string>
+    <string name="teamRCM">RCM Galati</string>
+    <string name="teamCSS">CSS Steaua</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="deepPurple">#673ab7</color>
+    <color name="purple">#4a148c</color>
+    <color name="grey">#9e9e9e</color>
+    <color name="brown">#795548</color>
+    <color name="blueGrey">#263238</color>
+    <color name="amber">#ff8f00</color>
+    <color name="mediumSpring">#CADF9E</color>
+    <color name="rocetMetalic">#857f74</color>
+    <color name="lila">#a797bc</color>
+
+
+</resources>
